@@ -1018,7 +1018,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Diagramme de classes" id="MzJakbMtWXp57BBzTQfq">
-    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1221,7 +1221,7 @@
           <mxGeometry x="455" y="450" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="irlqzYSiC_6odohbzlG8-41" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;*&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="930" y="510" width="30" height="40" as="geometry" />
+          <mxGeometry x="930" y="523" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="irlqzYSiC_6odohbzlG8-42" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;*&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="490" y="613" width="30" height="40" as="geometry" />
@@ -1283,6 +1283,12 @@
               <mxPoint x="450" y="251" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dy5NkkLkoz337aOuhJ91-1" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="790" y="695" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dy5NkkLkoz337aOuhJ91-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;*&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="565" y="727" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
